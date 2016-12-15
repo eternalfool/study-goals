@@ -10,8 +10,3 @@
 
 ### Relational
 ### NoSql
-## Books
-### Fiction
-### Non Fiction
-### Study
-Study goals + Book I want to read
