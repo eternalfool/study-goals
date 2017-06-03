@@ -3,9 +3,10 @@
 - [ ] [ Art of Multiprocessor Programming](https://www.goodreads.com/book/show/3131525-the-art-of-multiprocessor-programming)
 - [ ] [ Java, Concurrency in Practice](https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice?from_choice=false&from_home_module=false)
 
-## Machine Learning
+## Machine Learning and AI
 - [ ] [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 - [ ] [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [ ] [Artificial Intelligence CS 188 Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
 
 ## Databases
 - [x] [Introduction to Database Systems CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
@@ -26,3 +27,6 @@
 
 ## Operating Systems
 - [ ] [Introduction to Operating Systems CSE 421 UB](https://www.ops-class.org/)
+
+## Networks
+- [ ] [Introduction to Computer Networking Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/info)
