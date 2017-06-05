@@ -1,4 +1,9 @@
 # Study Goals
+
+## Algorithms and Data Structures
+- [x] [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+- [x] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+
 ## Concurrency
 - [ ] [ Art of Multiprocessor Programming](https://www.goodreads.com/book/show/3131525-the-art-of-multiprocessor-programming)
 - [ ] [ Java, Concurrency in Practice](https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice?from_choice=false&from_home_module=false)
@@ -30,3 +35,4 @@
 
 ## Networks
 - [ ] [Introduction to Computer Networking , Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/info)
+
