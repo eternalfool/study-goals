@@ -5,8 +5,8 @@
 - [x] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ## Concurrency
+- [ ] [Parallel Programming Concepts](https://open.hpi.de/courses/parprog2014)
 - [ ] [ Art of Multiprocessor Programming](https://www.goodreads.com/book/show/3131525-the-art-of-multiprocessor-programming)
-- [ ] [ Java, Concurrency in Practice](https://www.goodreads.com/book/show/127932.Java_Concurrency_in_Practice?from_choice=false&from_home_module=false)
 
 ## Machine Learning and AI
 - [ ] [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
@@ -29,6 +29,7 @@
 - [ ] [Great Ideas in Computer Architecture , CS 61C Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
 
 ## Core CS
+- [ ] [How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 - [ ] [Structure and Interpretation of Computer Programs , CS 61A Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBM29DgZsGaQihJp8lLQn3J)
 
 ## Operating Systems
