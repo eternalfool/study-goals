@@ -4,7 +4,7 @@
 - [x] [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 - [x] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
-## Concurrency
+## Concurrency/Parallelism
 - [ ] [Parallel Programming Concepts](https://open.hpi.de/courses/parprog2014)
 - [ ] [ Art of Multiprocessor Programming](https://www.goodreads.com/book/show/3131525-the-art-of-multiprocessor-programming)
 
