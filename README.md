@@ -38,6 +38,9 @@
 ## Networks
 - [ ] [Introduction to Computer Networking , Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/info)
 
+## Compilers
+- [ ] [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+
 ## Software Engineering
 - [ ] [Software Testing, Udacity](https://www.udacity.com/course/software-testing--cs258)
 
