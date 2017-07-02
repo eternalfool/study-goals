@@ -12,6 +12,7 @@
 - [ ] [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 - [ ] [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [ ] [Artificial Intelligence , CS 188 Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
+- [ ] [Statistical Learning](https://lagunita.stanford.edu/courses/humanitiessciences/statlearning/winter2016/info)
 
 ## Databases
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
