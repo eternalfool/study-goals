@@ -8,11 +8,12 @@
 - [ ] [Parallel Programming Concepts](https://open.hpi.de/courses/parprog2014)
 - [ ] [ Art of Multiprocessor Programming](https://www.goodreads.com/book/show/3131525-the-art-of-multiprocessor-programming)
 
-## Machine Learning and AI
+## Machine Learning, AI and Statistics
 - [ ] [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 - [ ] [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [ ] [Artificial Intelligence , CS 188 Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
 - [ ] [Statistical Learning](https://lagunita.stanford.edu/courses/humanitiessciences/statlearning/winter2016/info)
+- [ ] [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-05x-0#!)
 
 ## Databases
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
