@@ -14,6 +14,8 @@
 - [ ] [Artificial Intelligence , CS 188 Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
 - [ ] [Statistical Learning](https://lagunita.stanford.edu/courses/humanitiessciences/statlearning/winter2016/info)
 - [ ] [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-05x-0#!)
+- [ ] [Foundations of Data Analysis - Part 1: Statistics Using R](https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x-0)
+- [ ] [Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0)
 
 ## Databases
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
