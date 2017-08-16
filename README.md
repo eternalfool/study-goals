@@ -9,7 +9,7 @@
 - [ ] [ Art of Multiprocessor Programming](https://www.goodreads.com/book/show/3131525-the-art-of-multiprocessor-programming)
 
 ## Machine Learning, AI and Statistics
-- [ ] [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
+- [x] [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 - [ ] [Machine Learning Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [ ] [Artificial Intelligence , CS 188 Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
 - [ ] [Statistical Learning](https://lagunita.stanford.edu/courses/humanitiessciences/statlearning/winter2016/info)
@@ -45,5 +45,4 @@
 
 ## Software Engineering
 - [ ] [Software Testing, Udacity](https://www.udacity.com/course/software-testing--cs258)
-- [ ] [Scalable Microservices with Kubernetes](https://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 
