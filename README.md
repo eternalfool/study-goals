@@ -1,6 +1,6 @@
 # Study Goals
 
-##Computer Science
+## Computer Science
 
 ### Algorithms and Data Structures
 - [x] [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
