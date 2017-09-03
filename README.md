@@ -16,6 +16,7 @@
 - [ ] [Architecture of a Database System](http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [ ] [In-Memory Data Management](https://open.hpi.de/courses/imdb2017)
 - [ ] [Advanced Database Systems CMU](http://15721.courses.cs.cmu.edu/spring2017)
+- [ ] [Hacking PostgreSQL: Data Access Methods](https://www.edx.org/course/hacking-postgresql-data-access-methods-urfux-pgam31337x)
 
 ### Programming Languages
 - [ ] [The C Programming Language K&R](http://www3.fi.mdp.edu.ar/electronica/catedras/ddcm/files/The_C_Programming_Language_KandR.pdf)
