@@ -14,7 +14,7 @@
 - [ ] [In-Memory Data Management](https://open.hpi.de/courses/imdb2017)
 - [ ] [Advanced Database Systems CMU](http://15721.courses.cs.cmu.edu/spring2017)
 
-### Programming Languages
+### Programming
 - [ ] [The C Programming Language K&R](http://www3.fi.mdp.edu.ar/electronica/catedras/ddcm/files/The_C_Programming_Language_KandR.pdf)
 - [ ] [Programming Languages, University Of Washington](https://www.coursera.org/learn/programming-languages)
 
@@ -22,10 +22,6 @@
 ### Computer Architecture
 - [x] [From Nand to Tetris 1](https://www.coursera.org/learn/build-a-computer)
 - [ ] [From Nand to Tetris 2](https://www.coursera.org/learn/nand2tetris2)
-
-### Programming 
-- [ ] [How to Design Programs](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
-- [ ] [Structure and Interpretation of Computer Programs , CS 61A Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBM29DgZsGaQihJp8lLQn3J)
 
 ### Operating Systems
 - [ ] [Introduction to Operating Systems, CSE 421 UB](https://www.ops-class.org/)
@@ -38,6 +34,7 @@
 
 ### Software Engineering
 - [ ] [Upcase, Thoughtbot](https://thoughtbot.com/upcase)
+- [ ] [Practical Object-Oriented Design, An Agile Primer Using Ruby](http://www.poodr.com/)
 
 ## Data Science and AI
 
