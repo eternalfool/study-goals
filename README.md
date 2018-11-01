@@ -35,6 +35,7 @@
 ### Software Engineering
 - [ ] [Upcase, Thoughtbot](https://thoughtbot.com/upcase)
 - [ ] [Practical Object-Oriented Design, An Agile Primer Using Ruby](http://www.poodr.com/)
+- [ ] [Designing Data-Intensive Applications](https://dataintensive.net/)
 
 ## Data Science and AI
 
