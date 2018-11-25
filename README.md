@@ -12,7 +12,9 @@
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - [ ] [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) [Video](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY2xvwxuKjZT5qFH0sQga8_)
 - [ ] [In-Memory Data Management](https://open.hpi.de/courses/imdb2017)
+- [ ] [Database Systems CMU](https://15445.courses.cs.cmu.edu/)
 - [ ] [Advanced Database Systems CMU](http://15721.courses.cs.cmu.edu/spring2017)
+
 
 ### Programming
 - [ ] [The C Programming Language K&R](http://www3.fi.mdp.edu.ar/electronica/catedras/ddcm/files/The_C_Programming_Language_KandR.pdf)
