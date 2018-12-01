@@ -10,8 +10,6 @@
 
 ### Databases
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
-- [ ] [Seven Databases in Seven Weeks](https://pragprog.com/book/rwdata/seven-databases-in-seven-weeks) [Video](https://www.youtube.com/playlist?list=PLSE8ODhjZXjY2xvwxuKjZT5qFH0sQga8_)
-- [ ] [In-Memory Data Management](https://open.hpi.de/courses/imdb2017)
 - [ ] [Database Systems CMU](https://15445.courses.cs.cmu.edu/)
 - [ ] [Advanced Database Systems CMU](http://15721.courses.cs.cmu.edu/spring2017)
 
@@ -29,7 +27,7 @@
 - [ ] [Introduction to Operating Systems, CSE 421 UB](https://www.ops-class.org/)
 
 ### Networks
-- [ ] [Introduction to Computer Networking, Stanford](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/info)
+- [ ] [Fundamentals of Computer Networks, CMU](http://ini740.com/F18/)
 
 ### Compilers and Interpreters
 - [ ] [Crafting Interpreters](http://craftinginterpreters.com/)
