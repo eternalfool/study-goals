@@ -42,13 +42,7 @@
 - [x] [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 - [ ] [Statistical Learning](https://lagunita.stanford.edu/courses/humanitiessciences/statlearning/winter2016/info)
 - [ ] [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
-
-### Statistics
-- [ ] [Foundations of Data Analysis - Part 1: Statistics Using R](https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x-0)
-- [ ] [Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0)
-
-### Linear Algebra
-
+- [ ] [Dive into Deep Learning](http://d2l.ai/)
 
 ### Artificial Intelligence
 - [ ] [Artificial Intelligence , CS 188 Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
