@@ -15,7 +15,6 @@
 
 
 ### Programming
-- [ ] [The C Programming Language K&R](http://www3.fi.mdp.edu.ar/electronica/catedras/ddcm/files/The_C_Programming_Language_KandR.pdf)
 - [ ] [Programming Languages, University Of Washington](https://www.coursera.org/learn/programming-languages)
 
 
