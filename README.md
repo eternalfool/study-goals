@@ -43,5 +43,8 @@
 - [ ] [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 - [ ] [Dive into Deep Learning](http://d2l.ai/)
 
+### Math
+- [ ] [Linear Algebra](http://immersivemath.com/ila/index.html)
+
 ### Artificial Intelligence
 - [ ] [Artificial Intelligence , CS 188 Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
