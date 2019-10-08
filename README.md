@@ -7,6 +7,8 @@
 - [x] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ### Concurrency/Parallelism
+- [ ] [The Little Book of Semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
+
 
 ### Databases
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
