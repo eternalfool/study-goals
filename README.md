@@ -15,6 +15,9 @@
 - [x] [Database Systems CMU](https://15445.courses.cs.cmu.edu/)
 - [ ] [Designing Data-Intensive Applications](https://dataintensive.net/)
 
+### Security
+- [ ] [Web Security](https://web.stanford.edu/class/cs253/)
+
 
 ### Programming
 - [ ] [Programming Languages, University Of Washington](https://www.coursera.org/learn/programming-languages)
