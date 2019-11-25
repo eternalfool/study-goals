@@ -6,10 +6,6 @@
 - [x] [Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 - [x] [Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
-### Concurrency/Parallelism
-- [ ] [The Little Book of Semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
-
-
 ### Databases
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - [x] [Database Systems CMU](https://15445.courses.cs.cmu.edu/)
@@ -26,9 +22,11 @@
 ### Computer Architecture
 - [x] [From Nand to Tetris 1](https://www.coursera.org/learn/build-a-computer)
 - [ ] [From Nand to Tetris 2](https://www.coursera.org/learn/nand2tetris2)
+- [ ] [Computer Architecture](https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule)
 
 ### Operating Systems
 - [ ] [Introduction to Operating Systems, CSE 421 UB](https://www.ops-class.org/)
+- [ ] [The Little Book of Semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
 
 ### Networks
 - [ ] [Fundamentals of Computer Networks, CMU](http://ini740.com/F18/)
