@@ -39,6 +39,10 @@
 - [ ] [Crypto 101](https://www.crypto101.io/)
 
 
+### Distributed Systems
+- [ ] [Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+
 ## Data Science and AI
 
 ### Machine Learning
