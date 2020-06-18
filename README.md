@@ -9,7 +9,7 @@
 ### Databases
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - [x] [Database Systems CMU](https://15445.courses.cs.cmu.edu/)
-- [ ] [Designing Data-Intensive Applications](https://dataintensive.net/)
+- [x] [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [ ] [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 ### Security
