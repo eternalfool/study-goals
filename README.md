@@ -11,6 +11,9 @@
 - [x] [Database Systems CMU](https://15445.courses.cs.cmu.edu/)
 - [x] [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [ ] [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+- [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+- [ ] [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2020/)
+
 
 ### Security
 - [ ] [Web Security](https://web.stanford.edu/class/cs253/)
