@@ -26,6 +26,9 @@
 ### Computer Architecture
 - [x] [From Nand to Tetris 1](https://www.coursera.org/learn/build-a-computer)
 - [ ] [From Nand to Tetris 2](https://www.coursera.org/learn/nand2tetris2)
+- [ ] [Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule)
+- [ ] [Computer Architecture](https://safari.ethz.ch/architecture/doku.php)
+
 
 ### Operating Systems
 - [ ] [Introduction to Operating Systems, CSE 421 UB](https://www.ops-class.org/)
@@ -40,6 +43,8 @@
 
 ### Cryptography
 - [ ] [Crypto 101](https://www.crypto101.io/)
+- [ ] [Cryptography I](https://www.coursera.org/learn/crypto1)
+- [ ] [Cryptography II](https://www.coursera.org/learn/crypto2)
 
 
 ### Distributed Systems
