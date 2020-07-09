@@ -27,7 +27,6 @@
 - [x] [From Nand to Tetris 1](https://www.coursera.org/learn/build-a-computer)
 - [ ] [From Nand to Tetris 2](https://www.coursera.org/learn/nand2tetris2)
 - [ ] [Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule)
-- [ ] [Computer Architecture](https://safari.ethz.ch/architecture/doku.php)
 
 
 ### Operating Systems
