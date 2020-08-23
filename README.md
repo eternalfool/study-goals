@@ -10,13 +10,8 @@
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - [x] [Database Systems CMU](https://15445.courses.cs.cmu.edu/)
 - [x] [Designing Data-Intensive Applications](https://dataintensive.net/)
-- [ ] [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 - [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [ ] [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2020/)
-
-
-### Security
-- [ ] [Web Security](https://web.stanford.edu/class/cs253/)
 
 
 ### Programming
@@ -40,10 +35,11 @@
 - [ ] [Crafting Interpreters](http://craftinginterpreters.com/)
 
 
-### Cryptography
+### Security and Cryptography
 - [ ] [Crypto 101](https://www.crypto101.io/)
 - [ ] [Cryptography I](https://www.coursera.org/learn/crypto1)
 - [ ] [Cryptography II](https://www.coursera.org/learn/crypto2)
+- [ ] [Web Security](https://web.stanford.edu/class/cs253/)
 
 
 ### Distributed Systems
