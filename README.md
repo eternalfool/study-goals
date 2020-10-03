@@ -27,6 +27,10 @@
 ### Operating Systems
 - [ ] [Introduction to Operating Systems, CSE 421 UB](https://www.ops-class.org/)
 - [ ] [The Little Book of Semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
+- [ ] [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
+- [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+
 
 ### Networks
 - [ ] [Fundamentals of Computer Networks, CMU](http://ini740.com/F18/)
