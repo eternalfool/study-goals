@@ -9,7 +9,6 @@
 ### Databases
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - [x] [Database Systems CMU](https://15445.courses.cs.cmu.edu/)
-- [x] [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [ ] [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2020/)
 
@@ -50,6 +49,7 @@
 
 ### Distributed Systems
 - [ ] [Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
+- [x] [Designing Data-Intensive Applications](https://dataintensive.net/)
 
 
 ### Machine Learning / AI
