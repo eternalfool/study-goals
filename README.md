@@ -9,6 +9,7 @@
 ### Databases
 - [x] [Introduction to Database Systems , CS 186 Berkeley](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - [x] [Database Systems CMU](https://15445.courses.cs.cmu.edu/)
+- [x] [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [ ] [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2020/)
 
@@ -34,7 +35,7 @@
 
 
 ### Networks
-- [ ] [Fundamentals of Computer Networks, CMU](http://ini740.com/F18/)
+- [ ] [CS144, Introduction to Computer Networking, Stanford](https://www.youtube.com/playlist?list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN)
 
 ### Compilers and Interpreters
 - [ ] [Compilers](https://www.edx.org/course/compilers)
@@ -42,15 +43,14 @@
 
 
 ### Security and Cryptography
-- [ ] [Crypto 101](https://www.crypto101.io/)
 - [ ] [Cryptography I](https://www.coursera.org/learn/crypto1)
 - [ ] [Cryptography II](https://www.coursera.org/learn/crypto2)
+- [ ] [Crypto 101](https://www.crypto101.io/)
 - [ ] [Web Security](https://web.stanford.edu/class/cs253/)
 
 
 ### Distributed Systems
 - [ ] [Distributed Systems](https://pdos.csail.mit.edu/6.824/schedule.html)
-- [x] [Designing Data-Intensive Applications](https://dataintensive.net/)
 
 
 ### Machine Learning / AI
