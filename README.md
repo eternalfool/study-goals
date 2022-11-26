@@ -55,6 +55,9 @@
 - [ ] [Statistical Learning](https://lagunita.stanford.edu/courses/humanitiessciences/statlearning/winter2016/info)
 - [ ] [Artificial Intelligence , CS 188 Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/info)
 
-### Math
+## Math
 - [ ] [Linear Algebra](http://immersivemath.com/ila/index.html)
 
+## Finance
+
+- [ ] [Financial Markets](https://in.coursera.org/learn/financial-markets-global)
