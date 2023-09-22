@@ -30,10 +30,8 @@
 - [ ] [The Little Book of Semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
 
 
-
-
 ### Networks
-- [ ] [CS144, Introduction to Computer Networking, Stanford](https://www.youtube.com/playlist?list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN)
+- [ ] [Beej's Guide to Networking Concepts](https://beej.us/guide/bgnet0/html/split/index.html)
 
 ### Compilers and Interpreters
 - [ ] [Compilers](https://www.edx.org/course/compilers)
