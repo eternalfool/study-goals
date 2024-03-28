@@ -12,6 +12,7 @@
 - [x] [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [ ] [Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2020/)
+- [ ] [Efficient MySQL Performance](https://oreil.ly/efficient-mysql-performance)
 
 
 ### Programming
