@@ -22,11 +22,12 @@
 ### Computer Architecture
 - [x] [From Nand to Tetris 1](https://www.coursera.org/learn/build-a-computer)
 - [ ] [From Nand to Tetris 2](https://www.coursera.org/learn/nand2tetris2)
+- [ ] [Great Ideas in Computer Architecture (Machine Structures)](https://cs61c.org/sp25/)
 - [ ] [Digital Design and Computer Architecture](https://safari.ethz.ch/digitaltechnik/spring2020/doku.php?id=schedule)
 
 
 ### Operating Systems
-- [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [ ] [CS 162: Operating Systems and System Programming](https://cs162.org/)
 - [ ] [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 - [ ] [The Little Book of Semaphores](http://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf)
 
